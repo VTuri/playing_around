@@ -12,6 +12,7 @@ eggs/
 
 # Data files
 *.csv
+*.zip
 
 #Pickle files
 *.pkl

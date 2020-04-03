@@ -1,0 +1,14 @@
+model:
+  param1: asd
+  param2: asd
+  param3: asd
+  param4: asd
+
+data:
+  url: www.placeholder.com
+  zip_name: "startup-investments-crunchbase.zip"
+  raw_path: "data/raw/investments_VC.csv"
+
+artifact:
+  model_path: "data_analysis/artifacts/models"
+  transformer_path: "data_analysis/artifacts/transformers"
